@@ -1,11 +1,11 @@
 
 /*variaveis*/
 :root {
---preto: #ffffff;
+--preto: #000000;
 --branco: #ffffff;
---lilas-claro: #000000;
---azul-médio: #000000;
---amarelo:#ffffff;
+--lilas-claro: #ffb3f9;
+--azul-médio: #0044ff;
+--amarelo:#fffb00;
 }
 /*corpo da página*/
 body {
@@ -29,7 +29,7 @@ margin-right: 20px;/*margem a direita*/
 }
 
 .chamada {
-background: rgb(123, 0, 255);
+background: rgb(255, 255, 255);
 padding-bottom: 80px;/*espaçamento inferior*/
 
 padding-top: 80px;/*espaçamento superior*/
