@@ -5,7 +5,7 @@
 --branco: #ffffff;
 --lilas-claro: #ffffff;
 --azul-médio: #ffffff;
---amarelo:#89e4ff;
+--amarelo:hsl(195, 100%, 88%);
 }
 /*corpo da página*/
 body {
